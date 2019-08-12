@@ -8,8 +8,11 @@ for i in range(8):
             c = a[i]
             a[i] = a[j]
             a[j] = c
-          
-print(a)
 
-#LevPrivet =)
+print(a)
+for i in range(8):
+    print(a[i])
     
+#LevPrivet =)
+
+#Privet
